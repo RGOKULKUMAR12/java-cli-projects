@@ -1,6 +1,6 @@
-# 🖥️ Java CLI Projects by Gokul
+# 🖥️ Java CLI Projects
 
-A collection of simple command-line interface (CLI) projects written in Java. These projects simulate real-life systems like banking, healthcare, and transportation to demonstrate object-oriented programming concepts.
+A collection of simple command-line interface (CLI) projects written in Java. These projects simulate real-life systems like banking, healthcare, and transportation to demonstrate my learning on object-oriented programming concepts.
 
 ---
 
